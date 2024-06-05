@@ -1,8 +1,6 @@
-# Project-1
+# Garden Scheduler
 
-Title: Gardening Scheduler [Nurturing Nature]
-
-Description: Gardening Scheduler is an Application that  caters to the needs of Gardening lovers by providing details about the plant, weather and helps maintain a note or schedule soiling.
+Description: Gardening Scheduler is an Application that  provides details about the plant, weather and helps maintain a note or schedule soiling.
 
 Accessibility: 
 
